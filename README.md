@@ -20,6 +20,12 @@ Create a `.env` file in the root directory and add your Google API key:
 3. Enter a YouTube video URL in the input field.
 4. Click "Get Detailed Notes" to generate a summary of the video transcript.
 
+## 📸 Screenshot
+
+![YouTube Transcript Summarizer Screenshot](https://i.ibb.co/4wK1nX7k/Screenshot-2025-02-26-170016.png)
+
+![YouTube Transcript Summarizer Screenshot](https://i.ibb.co/Cs4PsqHR/Screenshot-2025-02-26-170026.png)
+
 ## 📚 Dependencies
 - 🌟 streamlit
 - 🔑 python-dotenv
